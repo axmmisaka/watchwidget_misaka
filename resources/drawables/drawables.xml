@@ -1,0 +1,5 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="misaka" x="center" y="center" filename="misaka.png" />
+    <bitmap id="fubuki" x="center" y="center" filename="fubuki.png" />
+</drawables>

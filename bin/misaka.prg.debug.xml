@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaApp.mc" id="3" lineNum="9" pc="268435456" symbol="initialize"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaApp.mc" id="3" lineNum="10" pc="268435460" symbol="initialize"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaApp.mc" id="4" lineNum="14" pc="268435479" symbol="onStart"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaApp.mc" id="5" lineNum="18" pc="268435484" symbol="onStop"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaApp.mc" id="6" lineNum="22" pc="268435489" symbol="getInitialView"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaApp.mc" id="6" lineNum="23" pc="268435493" symbol="getInitialView"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaApp.mc" id="6" lineNum="24" pc="268435523" symbol="getInitialView"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaApp.mc" id="6" lineNum="25" pc="268435553" symbol="getInitialView"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaDelegate.mc" id="8" lineNum="8" pc="268435593" symbol="initialize"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaDelegate.mc" id="8" lineNum="9" pc="268435597" symbol="initialize"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaDelegate.mc" id="9" lineNum="13" pc="268435616" symbol="onKey"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaDelegate.mc" id="9" lineNum="14" pc="268435620" symbol="onKey"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaDelegate.mc" id="9" lineNum="15" pc="268435637" symbol="onKey"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaDelegate.mc" id="9" lineNum="16" pc="268435650" symbol="onKey"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaDelegate.mc" id="9" lineNum="17" pc="268435668" symbol="onKey"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaDelegate.mc" id="9" lineNum="18" pc="268435689" symbol="onKey"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaDelegate.mc" id="9" lineNum="19" pc="268435707" symbol="onKey"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaDelegate.mc" id="9" lineNum="21" pc="268435728" symbol="onKey"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaDelegate.mc" id="9" lineNum="23" pc="268435731" symbol="onKey"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaDelegate.mc" id="9" lineNum="24" pc="268435747" symbol="onKey"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaView.mc" id="11" lineNum="10" pc="268435751" symbol="initialize"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaView.mc" id="11" lineNum="11" pc="268435755" symbol="initialize"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaView.mc" id="11" lineNum="12" pc="268435773" symbol="initialize"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaView.mc" id="12" lineNum="18" pc="268435874" symbol="onLayout"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaView.mc" id="13" lineNum="24" pc="268435879" symbol="onShow"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaView.mc" id="14" lineNum="28" pc="268435884" symbol="onUpdate"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaView.mc" id="14" lineNum="30" pc="268435888" symbol="onUpdate"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaView.mc" id="14" lineNum="31" pc="268435924" symbol="onUpdate"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaView.mc" id="14" lineNum="32" pc="268435968" symbol="onUpdate"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaView.mc" id="15" lineNum="38" pc="268436008" symbol="onHide"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaView.mc" id="16" lineNum="42" pc="268436013" symbol="incIndex"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaView.mc" id="16" lineNum="43" pc="268436017" symbol="incIndex"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaView.mc" id="16" lineNum="44" pc="268436030" symbol="incIndex"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaView.mc" id="16" lineNum="45" pc="268436049" symbol="incIndex"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaView.mc" id="16" lineNum="46" pc="268436069" symbol="incIndex"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaView.mc" id="17" lineNum="52" pc="268436089" symbol="decIndex"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaView.mc" id="17" lineNum="53" pc="268436093" symbol="decIndex"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaView.mc" id="17" lineNum="54" pc="268436106" symbol="decIndex"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaView.mc" id="17" lineNum="55" pc="268436125" symbol="decIndex"/>
+<entry filename="D:\\Program Files\\eclipse\\java-2018-09\\eclipse\\i\\eclipse-workspace\\misaka\\source\\misakaView.mc" id="17" lineNum="56" pc="268436142" symbol="decIndex"/>
+<entry filename="Rez" id="24" lineNum="22" pc="268436165" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="23" method="true" symbol="decIndex"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389097" method="true" symbol="onKey"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="20" symbol="selectedIndex"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="22" method="true" symbol="incIndex"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="17" method="true" symbol="MainLayout"/>
+<entry field="true" id="24" symbol="mainView"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="18" symbol="AppName"/>
+<entry id="11" object="true" symbol="misakaView"/>
+<entry field="true" id="15" symbol="fubuki"/>
+<entry field="true" id="16" symbol="LauncherIcon"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="14" symbol="misaka"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="25" symbol="mainDelegate"/>
+<entry field="true" id="19" symbol="picList"/>
+<entry id="10" object="true" symbol="misakaDelegate"/>
+<entry id="13" module="true" symbol="Layouts"/>
+<entry field="true" id="21" symbol="maxIndex"/>
+<entry id="9" object="true" symbol="misakaApp"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="12" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+<entry endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+<entry endPc="268435750" name="key" stackId="3" startPc="268435620"/>
+<entry endPc="268435750" name="app" stackId="2" startPc="268435620"/>
+<entry endPc="268435751" name="evt" stackId="1" startPc="268435616"/>
+<entry endPc="268435879" name="dc" stackId="1" startPc="268435874"/>
+<entry endPc="268436008" name="dc" stackId="1" startPc="268435884"/>
+<entry endPc="268436178" name="dc" stackId="1" startPc="268436165"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="misakaApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="misakaApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="misakaApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="misakaApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="misakaDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onKey" parent="misakaDelegate">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="misakaView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="misakaView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="misakaView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="misakaView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="misakaView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="incIndex" parent="misakaView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="decIndex" parent="misakaView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="182" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="261" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="316" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="347" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="378" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="409" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="448" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="487" parentId="globals" symbolId="misakaDelegate" type="class"/>
+<dataEntry offset="542" parentId="globals" symbolId="misakaView" type="class"/>
+<dataEntry offset="661" parentId="globals" symbolId="misakaApp" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
